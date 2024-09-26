@@ -1,0 +1,201 @@
+[ {
+  "Year" : "1990",
+  "Team" : "Buffalo Sabres",
+  "Epoch Time" : 1727354984,
+  "winPercentagestr" : 0.388
+}, {
+  "Year" : "1990",
+  "Team" : "Hartford Whalers",
+  "Epoch Time" : 1727354984,
+  "winPercentagestr" : 0.388
+}, {
+  "Year" : "1990",
+  "Team" : "Minnesota North Stars",
+  "Epoch Time" : 1727354984,
+  "winPercentagestr" : 0.338
+}, {
+  "Year" : "1990",
+  "Team" : "New York Islanders",
+  "Epoch Time" : 1727354985,
+  "winPercentagestr" : 0.312
+}, {
+  "Year" : "1990",
+  "Team" : "Quebec Nordiques",
+  "Epoch Time" : 1727354985,
+  "winPercentagestr" : 0.2
+}, {
+  "Year" : "1990",
+  "Team" : "Toronto Maple Leafs",
+  "Epoch Time" : 1727354985,
+  "winPercentagestr" : 0.287
+}, {
+  "Year" : "1990",
+  "Team" : "Vancouver Canucks",
+  "Epoch Time" : 1727354985,
+  "winPercentagestr" : 0.35
+}, {
+  "Year" : "1990",
+  "Team" : "Winnipeg Jets",
+  "Epoch Time" : 1727354985,
+  "winPercentagestr" : 0.325
+}, {
+  "Year" : "1991",
+  "Team" : "Buffalo Sabres",
+  "Epoch Time" : 1727354985,
+  "winPercentagestr" : 0.388
+}, {
+  "Year" : "1991",
+  "Team" : "Calgary Flames",
+  "Epoch Time" : 1727354985,
+  "winPercentagestr" : 0.388
+}, {
+  "Year" : "1991",
+  "Team" : "Hartford Whalers",
+  "Epoch Time" : 1727354987,
+  "winPercentagestr" : 0.325
+}, {
+  "Year" : "1991",
+  "Team" : "Quebec Nordiques",
+  "Epoch Time" : 1727354987,
+  "winPercentagestr" : 0.25
+}, {
+  "Year" : "1991",
+  "Team" : "San Jose Sharks",
+  "Epoch Time" : 1727354987,
+  "winPercentagestr" : 0.212
+}, {
+  "Year" : "1991",
+  "Team" : "Toronto Maple Leafs",
+  "Epoch Time" : 1727354987,
+  "winPercentagestr" : 0.375
+}, {
+  "Year" : "1992",
+  "Team" : "Edmonton Oilers",
+  "Epoch Time" : 1727354988,
+  "winPercentagestr" : 0.31
+}, {
+  "Year" : "1992",
+  "Team" : "Hartford Whalers",
+  "Epoch Time" : 1727354988,
+  "winPercentagestr" : 0.31
+}, {
+  "Year" : "1992",
+  "Team" : "Ottawa Senators",
+  "Epoch Time" : 1727354989,
+  "winPercentagestr" : 0.119
+}, {
+  "Year" : "1992",
+  "Team" : "San Jose Sharks",
+  "Epoch Time" : 1727354989,
+  "winPercentagestr" : 0.131
+}, {
+  "Year" : "1992",
+  "Team" : "Tampa Bay Lightning",
+  "Epoch Time" : 1727354989,
+  "winPercentagestr" : 0.274
+}, {
+  "Year" : "1993",
+  "Team" : "Mighty Ducks of Anaheim",
+  "Epoch Time" : 1727354989,
+  "winPercentagestr" : 0.393
+}, {
+  "Year" : "1993",
+  "Team" : "Edmonton Oilers",
+  "Epoch Time" : 1727354990,
+  "winPercentagestr" : 0.298
+}, {
+  "Year" : "1993",
+  "Team" : "Florida Panthers",
+  "Epoch Time" : 1727354992,
+  "winPercentagestr" : 0.393
+}, {
+  "Year" : "1993",
+  "Team" : "Hartford Whalers",
+  "Epoch Time" : 1727354992,
+  "winPercentagestr" : 0.321
+}, {
+  "Year" : "1993",
+  "Team" : "Los Angeles Kings",
+  "Epoch Time" : 1727354992,
+  "winPercentagestr" : 0.321
+}, {
+  "Year" : "1993",
+  "Team" : "Ottawa Senators",
+  "Epoch Time" : 1727354992,
+  "winPercentagestr" : 0.167
+}, {
+  "Year" : "1993",
+  "Team" : "San Jose Sharks",
+  "Epoch Time" : 1727354993,
+  "winPercentagestr" : 0.393
+}, {
+  "Year" : "1993",
+  "Team" : "Tampa Bay Lightning",
+  "Epoch Time" : 1727354993,
+  "winPercentagestr" : 0.357
+}, {
+  "Year" : "1993",
+  "Team" : "Winnipeg Jets",
+  "Epoch Time" : 1727354993,
+  "winPercentagestr" : 0.286
+}, {
+  "Year" : "1994",
+  "Team" : "Mighty Ducks of Anaheim",
+  "Epoch Time" : 1727354993,
+  "winPercentagestr" : 0.333
+}, {
+  "Year" : "1994",
+  "Team" : "Dallas Stars",
+  "Epoch Time" : 1727354993,
+  "winPercentagestr" : 0.354
+}, {
+  "Year" : "1994",
+  "Team" : "Edmonton Oilers",
+  "Epoch Time" : 1727354995,
+  "winPercentagestr" : 0.354
+}, {
+  "Year" : "1994",
+  "Team" : "Hartford Whalers",
+  "Epoch Time" : 1727354995,
+  "winPercentagestr" : 0.396
+}, {
+  "Year" : "1994",
+  "Team" : "Los Angeles Kings",
+  "Epoch Time" : 1727354995,
+  "winPercentagestr" : 0.333
+}, {
+  "Year" : "1994",
+  "Team" : "Montreal Canadiens",
+  "Epoch Time" : 1727354995,
+  "winPercentagestr" : 0.375
+}, {
+  "Year" : "1994",
+  "Team" : "New York Islanders",
+  "Epoch Time" : 1727354995,
+  "winPercentagestr" : 0.312
+}, {
+  "Year" : "1994",
+  "Team" : "Ottawa Senators",
+  "Epoch Time" : 1727354996,
+  "winPercentagestr" : 0.188
+}, {
+  "Year" : "1994",
+  "Team" : "San Jose Sharks",
+  "Epoch Time" : 1727354996,
+  "winPercentagestr" : 0.396
+}, {
+  "Year" : "1994",
+  "Team" : "Tampa Bay Lightning",
+  "Epoch Time" : 1727354996,
+  "winPercentagestr" : 0.354
+}, {
+  "Year" : "1994",
+  "Team" : "Vancouver Canucks",
+  "Epoch Time" : 1727354996,
+  "winPercentagestr" : 0.375
+}, {
+  "Year" : "1994",
+  "Team" : "Winnipeg Jets",
+  "Epoch Time" : 1727354996,
+  "winPercentagestr" : 0.333
+} ]
